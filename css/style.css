@@ -1,0 +1,18 @@
+/*----------
+BASE STYLES
+-----------*/
+* {
+    box-sizing: border-box;
+    /*
+    border: 1px solid red;
+    */
+}
+.container {
+	padding: 0px;
+	min-width: 568px;
+}
+
+.container {
+	background: url(../img/heart_sun_large.jpg) no-repeat center center;
+	background-size: cover;
+}
