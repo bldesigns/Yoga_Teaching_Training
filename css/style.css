@@ -10,9 +10,34 @@ BASE STYLES
 .container {
 	padding: 0px;
 	min-width: 568px;
-}
-
-.container {
+    margin-top: -20px;
 	background: url(../img/heart_sun_large.jpg) no-repeat center center;
 	background-size: cover;
+
+}
+.content-info {
+    text-align: center;
+    color: #fff;
+    padding: 10em 0em;
+    height: 1000px;
+    margin: 25% 0%;
+}
+.info {
+    background-color: #DDD;
+    height: 240px;
+    padding-top: 10px;
+}
+article {
+    padding: 20px;
+
+}
+.right {
+    border-left-style: solid;
+    border-left-width: thin;
+    border-color: #000;
+}
+.footer {
+    height: 50px;
+    background-color: #000;
+    color: #fff;
 }
